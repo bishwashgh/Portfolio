@@ -1,5 +1,5 @@
 /* ============================================
-   BISHWAS GHIMIRE - PORTFOLIO SCRIPTS
+   BISHWAS GHIMIRE - PORTFOLIO SCRIPT
    Dark Aesthetic | Minimal | Elegant
    ============================================ */
 
